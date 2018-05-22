@@ -1,4 +1,4 @@
-# Simple CRUD(Create, Read, Update, Delete) Application in CakePHP.
+# Simple CRUD(Create, Read, Update, Delete) Web Application in CakePHP without using cake bake.
 
 # OS : Ubuntu
 # Server : Apache2
